@@ -1,0 +1,26 @@
+###NOTE NOTHING GETS INSTALLED TO THIS
+###For browsing and taking notes for programming in python and R programming for school
+###SIMPLY FOR TESTING PROGRAMMING CODING, NOT FOR RUNNING THE CODE.
+
+#Python turtle for drawing hearts
+import turtle
+forward(100)
+# Turtle website material
+# https://docs.python.org/3/library/turtle.html
+left(120)
+forward(100)
+home()
+right(120)
+forward(100)
+##https://www.geeksforgeeks.org/python/draw-heart-using-turtle-graphics-in-python/
+
+def turtle_heart():
+    pend.fillcolor('black')
+    pen.begin_fill()
+    pen.left(140)
+    pen.forward(113)
+    curve()
+    pen.forward(112)
+    pen.end_fill()
+
+    turtle_heart()
